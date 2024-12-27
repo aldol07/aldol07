@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldol07" alt="aldol07" /></a> </p>
 
-- 🔭 I’m currently working on **AI, Machine Learning, and Deep Learning**
-- 🌱 I’m currently learning **Natural Language Processing (NLP) and Generative AI**
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-- 📫 How to reach me: **dubeykartikay13@gmail.com**
+- 🔭 I’m currently working on **AI, Machine Learning, and Deep Learning**  
+- 🌱 I’m currently learning **Natural Language Processing (NLP) and Generative AI**  
+- 👯 I’m looking to collaborate on **Machine Learning Projects**  
+- 📫 How to reach me: **dubeykartikay13@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/dubeykartikay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dubeykartikay" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dubeykartikay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dubeykartikay" height="30" width="40" /></a>
   <a href="https://kaggle.com/aldol07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aldol07" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/dubeykartikay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dubeykartikay" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/aldol07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aldol07" height="30" width="40" /></a>
