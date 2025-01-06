@@ -8,7 +8,9 @@
 - 🔭 I’m currently working on **AI, Machine Learning, and Deep Learning**  
 - 🌱 I’m currently learning **Natural Language Processing (NLP) and Generative AI**  
 - 👯 I’m looking to collaborate on **Machine Learning Projects**  
-- 📫 How to reach me: **dubeykartikay13@gmail.com**  
+- 📫 How to reach me: **dubeykartikay13@gmail.com**
+- [![An image of @aldol07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aldol07)](https://holopin.io/@aldol07)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
