@@ -5,7 +5,7 @@ A cracked head developer, in love with building epic AI/ML solutions and shippin
 
 **Turning ideas into intelligent code** 🚀
 
-### 🌟 About Me ![](https://komarev.com/ghpvc/?username=dubeykartikay01&label=Profile+views&style=for-the-badge&color=green)  
+### 🌟 About Me ![](https://komarev.com/ghpvc/?username=aldol07&label=Profile+views&style=for-the-badge&color=green)  
 - 🔭 Currently exploring **AI/ML**, **Deep Learning**, **Computer Vision**, and **Generative AI**.  
 - 🤖 Passionate about **Natural Language Processing**, **Machine Learning Operations (MLOps)**, and **AI Research**.
 - 📊 Working with **Data Science**, **Neural Networks**, and **Reinforcement Learning**.
@@ -36,14 +36,14 @@ A cracked head developer, in love with building epic AI/ML solutions and shippin
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubeykartikay01&show_icons=true&theme=dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldol07&show_icons=true&theme=dark&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dubeykartikay01&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aldol07theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeykartikay01&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldol07&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dubeykartikay01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aldol07&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🎖️ Badges & Achievements
 [![Holopin Badge](https://holopin.me/aldol07)](https://holopin.io/@aldol07)
