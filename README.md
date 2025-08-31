@@ -12,27 +12,22 @@ A cracked head developer, in love with building epic AI/ML solutions and shippin
 - ⚡ I enjoy **technical writing** and **sharing AI/ML insights**.
 - 📖 Check out my ML projects and insights!  
 
-### 💼 Experience  
-- **AI/ML Research** - Working on **Deep Learning and NLP projects**
-- **Machine Learning Engineer** - Building **intelligent systems and models**  
-- **Data Scientist** - Analyzing data and creating **predictive models**  
-- **Computer Vision Developer** - Working with **OpenCV and image processing**
-- **Python Developer** - Specializing in **AI/ML frameworks and libraries**
+### 🛠️ Tech Stack
+- **Languages**: Python, C++ JavaScript, TypeScript  
+- **ML/DL Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn  
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Jupyter  
+- **Computer Vision**: OpenCV, PIL, YOLO  
+- **NLP**: NLTK, SpaCy, Transformers, Hugging Face  
+- **MLOps / Cloud AI**: Docker, Kubernetes, MLflow, Azure ML  
+- **Databases**: PostgreSQL, MongoDB, MySQL  
+- **Frontend**: React.js, Next.js, Tailwind CSS  
+- **Backend**: Node.js, Fast API Express.js, REST APIs  
+- **Other Tools**: GitHub Actions, Vercel, Supabase  
 
-### 🛠️ AI/ML Tech Stack
-- **Languages**: Python, R, JavaScript
-- **ML/DL Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn
-- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Jupyter
-- **Computer Vision**: OpenCV, PIL, YOLO
-- **NLP**: NLTK, SpaCy, Transformers, Hugging Face
-- **Cloud AI**: AWS SageMaker, Google AI Platform, Azure ML
-- **MLOps**: Docker, Kubernetes, MLflow, Git
-- **Databases**: PostgreSQL, MongoDB, MySQL
-
-### 🌐Find Me on the internet: 
-- **LinkedIn**: [dubeykartikay](https://www.linkedin.com/in/dubeykartikay)
-- **Kaggle**: [aldol07](https://kaggle.com/aldol07)
-- **Email**: dubeykartikay13@gmail.com
+### 🌐 Find Me on the internet: 
+- **LinkedIn**: [dubeykartikay](https://www.linkedin.com/in/dubeykartikay)  
+- **Kaggle**: [aldol07](https://kaggle.com/aldol07)  
+- **Email**: dubeykartikay13@gmail.com  
 
 # 📊 GitHub Stats:
 
