@@ -15,17 +15,14 @@ A cracked head developer, in love with building epic AI/ML solutions and shippin
 - **MLOps / Cloud**: Docker, MLflow, Azure ML  
 - **Full Stack**: React.js, Next.js, Node.js, Express.js, Tailwind CSS  
 - **Databases**: PostgreSQL, MongoDB
-- 
+
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldol07&show_icons=true&theme=dark&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aldol07&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldol07&layout=compact&theme=dark)
 
 ## 🎖️ Badges & Achievements
 [![Holopin Badge](https://holopin.me/aldol07)](https://holopin.io/@aldol07)
-
 <!-- Hacktoberfest badges - these will show automatically during October if you participate -->
 ![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=for-the-badge&logo=hacktoberfest&logoColor=white)
