@@ -35,21 +35,18 @@ A cracked head developer, in love with building epic AI/ML solutions and shippin
 - **Email**: dubeykartikay13@gmail.com
 
 # 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=dubeykartikay01&theme=neon-palenight&hide_border=true&card_width=705">
-     </td>
-   </tr>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dubeykartikay01&theme=2077">
-     </td>
-   </tr>
-</table><table>
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dubeykartikay01&theme=aura_dark"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dubeykartikay01&theme=aura_dark"></td>
-  </tr>
-</table>
-[![Holopin](https://holopin.me/aldol07)](https://holopin.io/@aldol07)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dubeykartikay01&show_icons=true&theme=dark&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dubeykartikay01&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeykartikay01&layout=compact&theme=dark)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dubeykartikay01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+## 🎖️ Badges & Achievements
+[![Holopin Badge](https://holopin.me/aldol07)](https://holopin.io/@aldol07)
+
+<!-- Hacktoberfest badges - these will show automatically during October if you participate -->
+![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=for-the-badge&logo=hacktoberfest&logoColor=white)
