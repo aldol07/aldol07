@@ -5,31 +5,51 @@ A cracked head developer, in love with building epic AI/ML solutions and shippin
 
 **Turning ideas into intelligent code** 🚀
 
-- **AI/ML Stack**: Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, Pandas, NumPy
-- **Frontend**: HTML5, CSS3, JavaScript, React, TailwindCSS
-- **Backend**: Python, Django, Flask, NodeJS, Express
-- **Database**: MySQL, PostgreSQL, MongoDB
-- **Cloud & DevOps**: AWS, Google Cloud, Docker, Kubernetes, Git
-- **Currently Learning**: Natural Language Processing (NLP) and Generative AI
-- **Others**: CI/CD, Github Actions, Linux, Arduino
+### 🌟 About Me ![](https://komarev.com/ghpvc/?username=dubeykartikay01&label=Profile+views&style=for-the-badge&color=green)  
+- 🔭 Currently exploring **AI/ML**, **Deep Learning**, **Computer Vision**, and **Generative AI**.  
+- 🤖 Passionate about **Natural Language Processing**, **Machine Learning Operations (MLOps)**, and **AI Research**.
+- 📊 Working with **Data Science**, **Neural Networks**, and **Reinforcement Learning**.
+- ⚡ I enjoy **technical writing** and **sharing AI/ML insights**.
+- 📖 Check out my ML projects and insights!  
 
-> Currently working on **AI, Machine Learning, and Deep Learning projects**
+### 💼 Experience  
+- **AI/ML Research** - Working on **Deep Learning and NLP projects**
+- **Machine Learning Engineer** - Building **intelligent systems and models**  
+- **Data Scientist** - Analyzing data and creating **predictive models**  
+- **Computer Vision Developer** - Working with **OpenCV and image processing**
+- **Python Developer** - Specializing in **AI/ML frameworks and libraries**
 
-## 🔭 What I'm Up To
-- Building intelligent systems with **AI & Machine Learning**
-- Exploring the frontiers of **Generative AI and NLP**
-- Looking to collaborate on **Machine Learning Projects**
+### 🛠️ AI/ML Tech Stack
+- **Languages**: Python, R, JavaScript
+- **ML/DL Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Jupyter
+- **Computer Vision**: OpenCV, PIL, YOLO
+- **NLP**: NLTK, SpaCy, Transformers, Hugging Face
+- **Cloud AI**: AWS SageMaker, Google AI Platform, Azure ML
+- **MLOps**: Docker, Kubernetes, MLflow, Git
+- **Databases**: PostgreSQL, MongoDB, MySQL
 
-## 📫 Connect With Me
-- **Email**: dubeykartikay13@gmail.com
+### 🌐Find Me on the internet: 
 - **LinkedIn**: [dubeykartikay](https://www.linkedin.com/in/dubeykartikay)
 - **Kaggle**: [aldol07](https://kaggle.com/aldol07)
+- **Email**: dubeykartikay13@gmail.com
 
-[![Holopin badges](https://holopin.me/aldol07)](https://holopin.io/@aldol07)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dubeykartikay01&show_icons=true&count_private=true)  
-![GitHub streak stats](https://streak-stats.demolab.com/?user=dubeykartikay01)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeykartikay01&label=Profile%20views&color=0e75b6&style=flat" alt="dubeykartikay01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dubeykartikay01" alt="dubeykartikay01" /></a> </p>
+# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=dubeykartikay01&theme=neon-palenight&hide_border=true&card_width=705">
+     </td>
+   </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dubeykartikay01&theme=2077">
+     </td>
+   </tr>
+</table><table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dubeykartikay01&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dubeykartikay01&theme=aura_dark"></td>
+  </tr>
+</table>
+[![Holopin](https://holopin.me/aldol07)](https://holopin.io/@aldol07)
