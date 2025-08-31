@@ -1,28 +1,21 @@
 # AI/ML Engineer | Full Stack Developer
 <img src="giphy 3.webp" style="text-align:center;"></img>
 
-A cracked head developer, in love with building epic AI/ML solutions and shipping them to show the world !! Hacking projects in Python, Machine Learning, and probably some Full Stack magic
-
-**Turning ideas into intelligent code** 🚀
+A cracked head developer, in love with building epic AI/ML solutions and shipping them to show the world !!  
+**Turning ideas into intelligent code** 🚀  
 
 ### 🌟 About Me ![](https://komarev.com/ghpvc/?username=aldol07&label=Profile+views&style=for-the-badge&color=green)  
-- 🔭 Currently exploring **AI/ML**, **Deep Learning**, **Computer Vision**, and **Generative AI**.  
-- 🤖 Passionate about **Natural Language Processing**, **Machine Learning Operations (MLOps)**, and **AI Research**.
-- 📊 Working with **Data Science**, **Neural Networks**, and **Reinforcement Learning**.
-- ⚡ I enjoy **technical writing** and **sharing AI/ML insights**.
-- 📖 Check out my ML projects and insights!  
+- Exploring **AI/ML**, **Deep Learning**, and **Generative AI**  
+- Passionate about **NLP**, **MLOps**, and **AI Research**  
+- Love blending **Data Science + Full Stack magic**  
 
 ### 🛠️ Tech Stack
-- **Languages**: Python, C++ JavaScript, TypeScript  
-- **ML/DL Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn  
-- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Jupyter  
-- **Computer Vision**: OpenCV, PIL, YOLO  
-- **NLP**: NLTK, SpaCy, Transformers, Hugging Face  
-- **MLOps / Cloud AI**: Docker, Kubernetes, MLflow, Azure ML  
-- **Databases**: PostgreSQL, MongoDB, MySQL  
-- **Frontend**: React.js, Next.js, Tailwind CSS  
-- **Backend**: Node.js, Fast API Express.js, REST APIs  
-- **Other Tools**: GitHub Actions, Vercel, Supabase  
+- **Languages**: Python, C++, JavaScript, TypeScript  
+- **AI/ML**: TensorFlow, PyTorch, Scikit-learn, Hugging Face  
+- **Data Science & CV/NLP**: Pandas, NumPy, OpenCV, Transformers  
+- **MLOps / Cloud**: Docker, MLflow, Azure ML  
+- **Full Stack**: React.js, Next.js, Node.js, Express.js, Tailwind CSS  
+- **Databases**: PostgreSQL, MongoDB  
 
 ### 🌐 Find Me on the internet: 
 - **LinkedIn**: [dubeykartikay](https://www.linkedin.com/in/dubeykartikay)  
@@ -33,7 +26,7 @@ A cracked head developer, in love with building epic AI/ML solutions and shippin
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldol07&show_icons=true&theme=dark&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aldol07theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=aldol07&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldol07&layout=compact&theme=dark)
 
