@@ -16,11 +16,7 @@ A cracked head developer, in love with building epic AI/ML solutions and shippin
 - **Full Stack**: React.js, Next.js, Node.js, Express.js, Tailwind CSS  
 - **Databases**: PostgreSQL, MongoDB
 
-# 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldol07&show_icons=true&theme=dark&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=aldol07&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldol07&layout=compact&theme=dark)
 
 ## 🎖️ Badges & Achievements
 [![Holopin Badge](https://holopin.me/aldol07)](https://holopin.io/@aldol07)
